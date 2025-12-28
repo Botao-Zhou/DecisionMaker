@@ -1,17 +1,4 @@
-<style>
-    
-    .mermaid, pre, blockquote, table {
-        break-inside: avoid !important;
-        page-break-inside: avoid !important;
-    }
-    
-    
-    .mermaid {
-        margin-top: 20px;
-        margin-bottom: 20px;
-        display: block;
-    }
-</style>
+
 # Mini App 产品技术报告：智能决策转盘 (Decision Maker)
 
 
